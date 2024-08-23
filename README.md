@@ -1,4 +1,13 @@
 ## Hi there 👋
+I'm Elisabeth, and I'm a cybersecurity student and junior data engineer in political campaigning.
+
+🔭 I’m currently working on ...
+- Studying for CompTIA Security+ and Splunk Core Certified User
+
+🌱 I’m currently learning ...
+- SOC Analyst path with HackTheBox
+- Apache Airflow
+- Applications of Machine Learning to Computer Security
 
 <!--
 **spicypapr1ka/spicypapr1ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
