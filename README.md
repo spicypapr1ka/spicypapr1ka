@@ -1,5 +1,9 @@
 ## Hi there 👋
-I'm Elisabeth. I'm a Cuban-American cybersecurity student, and junior data engineer in political outreach. I graduate in May 2025!
+I'm Elisabeth. I'm a Cuban-American cybersecurity student, and junior data engineer in political outreach.
+I'm part of the UNG CyberHawks Blue Team and I graduate in May 2025!
+
+💬 News ...
+- My team and I at UNG finished 2nd in defense and 4th overall at the SECCDC qualifiers. We're headed to regionals!
 
 🔭 I’m currently working on ...
 - Studying for CompTIA Security+
@@ -9,7 +13,7 @@ I'm Elisabeth. I'm a Cuban-American cybersecurity student, and junior data engin
 - Reverse engineering & homeland security in my last semester at UNG
 - Advantage Actor-Critic (A2C) and reinforcement learning methods
 
-⚡ Fun fact:
+⚡ Fun fact ...
 - I have a bunny named Yogi Bear (or Yogurt as my boyfriend likes to call him)
 
 <!--
