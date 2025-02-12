@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Elisabeth, and I'm a cybersecurity student and junior data engineer in political campaigning.
+I'm Elisabet. I'm a Cuban-American cybersecurity student, and junior data engineer in political outreach. I graduate in May 2025!
 
 🔭 I’m currently working on ...
 - Studying for CompTIA Security+
