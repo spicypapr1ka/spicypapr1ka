@@ -2,12 +2,15 @@
 I'm Elisabeth, and I'm a cybersecurity student and junior data engineer in political campaigning.
 
 🔭 I’m currently working on ...
-- Studying for CompTIA Security+ and Splunk Core Certified User
+- Studying for CompTIA Security+
+- Repurposing a Pwnagotchi for passive wireless auditing and rogue AP detection
 
 🌱 I’m currently learning ...
-- SOC Analyst path with HackTheBox
-- Apache Airflow
-- Applications of Machine Learning to Computer Security
+- Reverse engineering & homeland security in my last semester at UNG
+- Advantage Actor-Critic (A2C) and reinforcement learning methods
+
+⚡ Fun fact:
+- I have a bunny named Yogi Bear (or Yogurt as my boyfriend likes to call him)
 
 <!--
 **spicypapr1ka/spicypapr1ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
