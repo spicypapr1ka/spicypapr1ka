@@ -8,6 +8,7 @@ I'm part of the UNG CyberHawks Blue Team and I graduate in May 2025!
 🔭 I’m currently working on ...
 - Studying for CompTIA Security+
 - Repurposing a Pwnagotchi for passive wireless auditing and rogue AP detection
+- Becoming a polyglot
 
 🌱 I’m currently learning ...
 - Reverse engineering & homeland security in my last semester at UNG
