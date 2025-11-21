@@ -1,21 +1,19 @@
 ## Hi there 👋
-I'm Elisabeth. I'm a Cuban-American cybersecurity student, and junior data engineer in political outreach.
-I'm part of the UNG CyberHawks Blue Team and I graduate in May 2025!
+I'm Elisabeth. I'm a Cuban-American tech & political enthusiast. I work in fundraising and political technical solutions.
+I was part of the UNG CyberHawks Blue Team and I graduated with my BS in Cybersecurity in May of 2025.
 
 💬 News ...
-- My team and I at UNG finished 2nd in defense and 4th overall at the SECCDC qualifiers. We're headed to regionals!
+- My team and I at UNG finished 2nd in defense and 4th overall at the SECCDC qualifiers, and we went to the regionals in Florida.
 
 🔭 I’m currently working on ...
-- Studying for CompTIA Security+
-- Repurposing a Pwnagotchi for passive wireless auditing and rogue AP detection
 - Becoming a polyglot
+- Fundraising (of course)
 
 🌱 I’m currently learning ...
-- Reverse engineering & homeland security in my last semester at UNG
 - Advantage Actor-Critic (A2C) and reinforcement learning methods
 
 ⚡ Fun fact ...
-- I have a bunny named Yogi Bear (or Yogurt as my boyfriend likes to call him)
+- I'm an avid weight lifter and body builder (one day will be a muscle mommy I hope)
 
 <!--
 **spicypapr1ka/spicypapr1ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
