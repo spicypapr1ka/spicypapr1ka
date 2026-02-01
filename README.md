@@ -1,19 +1,16 @@
 ## Hi there 👋
-I'm Elisabeth. I'm a Cuban-American tech & political enthusiast. I work in fundraising and political technical solutions.
-I was part of the UNG CyberHawks Blue Team and I graduated with my BS in Cybersecurity in May of 2025.
+I'm Elisabeth, a Cuban-American tech & political enthusiast. I work in fundraising and political technical solutions.
 
-💬 News ...
-- My team and I at UNG finished 2nd in defense and 4th overall at the SECCDC qualifiers, and we went to the regionals in Florida.
-
-🔭 I’m currently working on ...
-- Becoming a polyglot
-- Fundraising (of course)
-
-🌱 I’m currently learning ...
+**I’m currently working on**
+- React, Node.js, & TypeScript
+- Full-stack development & SecDevOps
+- AWS integration and deployment
+---
+**I’m currently learning**
 - Advantage Actor-Critic (A2C) and reinforcement learning methods
-
-⚡ Fun fact ...
-- I'm an avid weight lifter and body builder (one day will be a muscle mommy I hope)
+---
+**Fun Facts**
+- I'm an avid weight lifter
 
 <!--
 **spicypapr1ka/spicypapr1ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
